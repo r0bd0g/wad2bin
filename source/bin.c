@@ -41,6 +41,8 @@ static const u32 g_supportedDLCs[] = {
     0x735A4400, /* "sZDx" (DLC4). */
     0x735A4500, /* "sZEx" (DLC5). */
     0x735A4600, /* "sZFx" (DLC6). */
+    0x735A4700, /* "sZGx" (DLC7). */
+    0x735A4800, /* "sZHx" (DLC8). */
     
     /* The Beatles: Rock Band ("R9Jx"). */
     0x72394A00, /* "r9Jx". */
